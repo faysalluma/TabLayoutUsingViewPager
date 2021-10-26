@@ -1,0 +1,10 @@
+
+û
+java:S1186+"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û¶õÕ8º›êª /
+K
+java:S1128".Remove this unused import 'android.view.Menu'.(£Ø“Ö8µ⁄ïª /
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(≤⁄±é8èÕëª /
+\
+java:S1874""@Remove this use of "setOnTabSelectedListener"; it is deprecated.(∞¸Ä:8Üÿíª /
+£
+java:S1186("ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ωƒ≥Ô˛ˇˇˇˇ8º›êª /
